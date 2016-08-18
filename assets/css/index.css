@@ -1036,6 +1036,10 @@ a.active2{
 /*********************************
 *********** WORK ITEM ************
 *********************************/
+a.active2 {
+	margin-top: -5px;
+}
+
 h2.active3 {
 	color: #f16045;
 }
@@ -1046,4 +1050,8 @@ h2.active3 {
 
 .content-work-item {
 	margin-bottom: 75px;
+}
+
+span.active {
+	color: #ee373d ;
 }
